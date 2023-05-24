@@ -1,4 +1,4 @@
-For this project, I try four different types of codes. I found BO_UCB_3.ipynb most successful in finding maximum observation. Following are details of the code files in this folder. 
+For this function, I try four different types of codes. I found BO_UCB_3.ipynb most successful in finding maximum observation. Following are details of the code files in this folder. 
  
 ## Initial codebase 
 
@@ -32,4 +32,3 @@ Modify it to work with multiple inputs according to function, limiting the outpu
 ## Results 
 After fine-tuning the values of beta = 0.001 and noise_level =0.7 in code file BO_UCB_3.ipynb. I am able to push up the observation values from -0.1111 and -0.024 to -0.0044 during the final weeks of the project. With the passage of time, my results are getting better and better if I have more time, I may be able to get the maximum value of this function. Also, I will try look into the other code files again to find out why some functions are working well and some are not. Although in theory, all of them should work. 
  
-
