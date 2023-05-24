@@ -1,4 +1,4 @@
-For this project, I try four different types of codes. I found BO_UCB_7.ipynb most successful in finding maximum observation. Following are details of the code files in this folder. 
+For this function, I try four different types of codes. I found BO_UCB_7.ipynb most successful in finding maximum observation. Following are details of the code files in this folder. 
  
 ## Initial codebase 
 
@@ -14,8 +14,6 @@ Develop using code from CapstonUsingBotorchNB2.ipynb from week 18 office hours. 
 #### BO_EI_7.ipynb 
 Develop using code from https://machinelearningmastery.com/what-is-bayesian-optimization/. It uses estimated improvement using GaussianProcessRegressor from sklearn.gaussian_process and minimize function from scipy 
 
- 
-
 ## Code Modifications 
 
 #### BO_UCB_7.ipynb  
@@ -27,7 +25,7 @@ Modify it to work with multiple inputs according to function, limiting the outpu
 #### Botorch_UCB_7.ipynb 
 Modify it to work with multiple inputs according to function, limiting the output values between 0 and 1. Modify it to run code in a loop for different values of beta and noise-level, also manually fine-tune different values of num_restarts and raw_samples. It uses UpperConfidenceBound from botorch.acquisition 
 
-#### BO_EI_7.Ipynb 
+#### BO_EI_7.ipynb 
 Modify it to work with multiple inputs according to function, limiting the output values between 0 and 1. I experiment with different values of noise, length scale, number of iterations etc. It uses estimated improvement using GaussianProcessRegressor from sklearn.gaussian_process and minimize function from scipy.optimize. I tried different values but the output is not useful I produce random values very different or away from existing higher values. 
  
 ## Results 
