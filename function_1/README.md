@@ -1,4 +1,4 @@
-For this project, I try four different types of codes. I found BO_UCB_1 most successful in finding maximum observation. Following are details of the code files in this folder. 
+For this function, I try four different types of codes. I found BO_UCB_1 most successful in finding maximum observation. Following are details of the code files in this folder. 
  
 ## Initial codebase 
 
